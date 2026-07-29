@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390694321120",
+    "project_id": "com-vocationalsubject-sk-76bda",
+    "storage_bucket": "com-vocationalsubject-sk-76bda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390694321120:android:ee34bbd272886eb17ec985",
+        "android_client_info": {
+          "package_name": "com.vocationalsubject.skillsubai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCJpCq0i46NT3Fkxq-nXmQ8oGCiuhWvFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
